@@ -1,8 +1,7 @@
-# Source Code VSW Store Book | Android Studio
-Dosen Pengampu : Dinarto Iswanto, S.Kom., M.M.
+# Source Code | Android Studio
 
 ```
-Veno Setyoaji Wiratama
-311910363
+ratna arista
+311910441
 TI.19.A.2
 ```
