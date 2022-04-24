@@ -1,7 +1,7 @@
 # Source Code | Android Studio
 
 ```
-ratna arista
+Ratna Arista
 311910441
 TI.19.A.2
 ```
